@@ -22,8 +22,11 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#FFFFFF",
+        "package": "com.yourcompany.yourappname",
+        "versionCode": 1
+      },
+      "package": "app.com"
     },
     "web": {
       "favicon": "./assets/favicon.png"
